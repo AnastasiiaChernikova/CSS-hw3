@@ -1,0 +1,44 @@
+.headingpink {
+    color: pink;
+}
+
+.headinggrey {
+    color: grey;
+}
+
+.headingred {
+    color: red;
+}
+
+.headinggreen {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.tr1 td:nth-child(n) {
+    background-color: cadetblue;
+}
+
+.tr2 td:nth-child(n) {
+    background-color: coral;
+}
+
+.tr3 td:nth-child(n) {
+    background-color: lightpink;
+}
+
+.tr4 td:nth-child(n) {
+    background-color: yellowgreen;
+}
+
+.tr5 td:nth-child(n) {
+background-color: darkgoldenrod;
+}
+
+.tr6 td:nth-child(n) {
+    cursor: pointer;
+    background-color: mediumpurple;
+}
